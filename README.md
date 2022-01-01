@@ -1,5 +1,7 @@
 # setup-vuejs-project-without-vue-cli
-Setting up a new Vue project from scratch without using Vue CLI
+Setting up latest Vue JS v3 (vue@next) project from scratch without using Vue CLI.
+
+Including Single File Components (SFCs), Vue Router v4, SCSS
 ```sh
 // Install dependencies
 npm install
